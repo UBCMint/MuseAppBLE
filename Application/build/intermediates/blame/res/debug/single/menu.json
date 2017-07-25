@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kristynlee/MuseAppBLE/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/kristynlee/MuseAppBLE/Application/src/main/res/menu/gatt_services.xml"
+    },
+    {
+        "merged": "/Users/kristynlee/MuseAppBLE/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/kristynlee/MuseAppBLE/Application/src/main/res/menu/main.xml"
+    }
+]

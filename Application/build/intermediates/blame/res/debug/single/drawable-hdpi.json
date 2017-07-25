@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kristynlee/MuseAppBLE/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/kristynlee/MuseAppBLE/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/kristynlee/MuseAppBLE/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/kristynlee/MuseAppBLE/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
